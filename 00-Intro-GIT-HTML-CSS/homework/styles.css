@@ -1,0 +1,26 @@
+h1{
+    color:firebrick;
+}
+img {
+    width: 400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background:bisque;
+    margin: 50px;
+    padding: 50px;
+    border: 3px solid firebrick;
+}
+#spanId{
+    font-size: 18px;
+}
+body { 
+    background-image: url("https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/87/2017/01/07115805/caminetto.jpg");
+    margin-left: 350px;    
+}
+div{
+    margin-left: -350px;
+    text-align:center;                
+    background-color: bisque;                
+}
